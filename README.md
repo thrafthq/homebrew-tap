@@ -16,8 +16,6 @@ brew upgrade --cask thraft
 
 The app also checks for updates on its own.
 
-If you installed the cask when it was called `plano`, `brew upgrade` moves you to `thraft`.
-
 ## Uninstall
 
 ```bash
