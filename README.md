@@ -26,4 +26,4 @@ brew uninstall --cask thraft
 
 ## Releases
 
-Release notes and DMGs are in [thrafthq/releases](https://github.com/thrafthq/releases). The release job rewrites `Casks/thraft.rb` on each release, so don't edit it by hand.
+Release notes and DMGs are in [thrafthq/thraft](https://github.com/thrafthq/thraft). The release job rewrites `Casks/thraft.rb` on each release, so don't edit it by hand.

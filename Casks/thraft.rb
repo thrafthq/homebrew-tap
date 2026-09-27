@@ -14,7 +14,7 @@ cask "thraft" do
   version "0.1.22"
   sha256 "09dc9ba6ab2e9790bad227f3d0eeef372de44bc4a1d0d3810a21eb74b01f688b"
 
-  url "https://github.com/thrafthq/releases/releases/download/v#{version}/Plano-#{version}.dmg"
+  url "https://github.com/thrafthq/thraft/releases/download/v#{version}/Plano-#{version}.dmg"
   name "Thraft"
   desc "Planning tool where agents collaborate on a living draft, not a chat"
   homepage "https://thraft.app/"
