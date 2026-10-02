@@ -18,7 +18,6 @@ cask "thraft" do
   homepage "https://thraft.app/"
 
   auto_updates true
-
   # The bundle is built for macOS 13 and later (0039 D1).
   depends_on macos: :ventura
 
