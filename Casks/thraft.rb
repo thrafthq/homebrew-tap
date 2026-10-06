@@ -9,8 +9,8 @@
 # `brew upgrade --greedy` still moves it to the release this file names.
 # Every release rewrites this file with its own version and checksum.
 cask "thraft" do
-  version "0.2.0"
-  sha256 "1d33fca1c40414b609558d5af51d831d6a04fd33536b8929f45d8f40fc86d12a"
+  version "0.2818.0"
+  sha256 "89601e9fc970b2127b2a861e4a6e1d189faa2c226891230ecdd02d5af0a4fcea"
 
   url "https://github.com/thrafthq/thraft/releases/download/v#{version}/Thraft-#{version}.dmg"
   name "Thraft"
